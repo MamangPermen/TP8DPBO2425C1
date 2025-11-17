@@ -10,9 +10,9 @@ Program ini merupakan aplikasi **manajemen data fakultas** berbasis **PHP** deng
 
 Aplikasi menyediakan fitur CRUD untuk tiga jenis data:
 
-1. **Lecturers** — data dosen  
-2. **Subjects** — data mata kuliah  
-3. **Classes** — jadwal kelas yang berisi hubungan dosen dan mata kuliah  
+1. **Lecturers**: data dosen  
+2. **Subjects**: data mata kuliah  
+3. **Classes**: jadwal kelas yang berisi hubungan dosen dan mata kuliah  
 
 Program dibangun dengan prinsip pemisahan komponen:
 
